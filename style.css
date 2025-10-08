@@ -1,0 +1,4 @@
+body { font-family: system-ui, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif; margin: 24px; }
+h1 { font-size: clamp(28px, 5vw, 48px); letter-spacing: .02em; }
+p { color:#444; }
+.btn { display:inline-block; padding:10px 14px; border:1px solid #ddd; border-radius:8px; text-decoration:none; }
